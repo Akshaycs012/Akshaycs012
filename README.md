@@ -205,11 +205,8 @@ A system that helps students find suitable internships based on their **skills, 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshaycs012&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&icon_color=00BFFF&text_color=FFFFFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaycs012&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&text_color=FFFFFF" width="40%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaycs012&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&icon_color=00BFFF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycs012&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&text_color=FFFFFF" width="40%" />
 </div>
 
 ---
@@ -217,9 +214,7 @@ A system that helps students find suitable internships based on their **skills, 
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Akshaycs012&theme=tokyonight&hide_border=true&background=0D1117&ring=00A86B&fire=FF6B35&currStreakLabel=00BFFF" width="70%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaycs012&theme=tokyonight&hide_border=true&background=0D1117&ring=00A86B&fire=FF6B35&currStreakLabel=00BFFF" width="70%" />
 </div>
 
 ---
