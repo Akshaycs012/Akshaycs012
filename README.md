@@ -202,22 +202,6 @@ A system that helps students find suitable internships based on their **skills, 
 - [ ] Consistently practice **Data Structures & Algorithms**
 - [ ] Gain hands-on experience with **deployment, hosting, and backend infrastructure**
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaycs012&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&icon_color=00BFFF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycs012&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00A86B&text_color=FFFFFF" width="40%" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaycs012&theme=tokyonight&hide_border=true&background=0D1117&ring=00A86B&fire=FF6B35&currStreakLabel=00BFFF" width="70%" />
-</div>
-
----
 
 ## 🌱 Beyond Code
 
